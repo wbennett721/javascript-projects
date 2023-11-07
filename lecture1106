@@ -1,0 +1,13 @@
+let pokeman = {
+    name: "charmander",
+    number: 4,
+    type: "fire",
+    isReallyCool: true
+}
+{
+    "name": "charmander",
+    "number": 4,
+    "type": "fire",
+    "isReallyCool": "true"
+    "phrase": "\"HELLO WORLD\""
+}
